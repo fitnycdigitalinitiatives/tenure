@@ -32,7 +32,7 @@ SPARC Digital was thus conceived as a platform that would not only showcase digi
 
 [![Max Meyer and A. Beller & Co. exhibition landing page]({{ '/assets/images/max-meyer.png' | relative_url }})](https://sparcdigital.fitnyc.edu/exhibits/show/meyer-beller)
 
-> This long-brewing project focusing on FIT founder, Max Meyer, was originally intended to be mounted in the Art and Design Gallery. Due to the COVID-19 pandemic, however, it was reconsidered as an online exhibition and I was brought on to act as the Digital Exhibition Designer. The final product, launched in early-2021, was a collaboration between FIT Library’s Special Collections and College Archives (led by Prof. Karen Trivette), the Fashion and Textile Studies graduate program, the Visual Presentation and Exhibition Design department, and the Art & Design Gallery.
+Background: This long-brewing project focusing on FIT founder, Max Meyer, was originally intended to be mounted in the Art and Design Gallery. Due to the COVID-19 pandemic, however, it was reconsidered as an online exhibition and I was brought on to act as the Digital Exhibition Designer. The final product, launched in early-2021, was a collaboration between FIT Library’s Special Collections and College Archives (led by Prof. Karen Trivette), the Fashion and Textile Studies graduate program, the Visual Presentation and Exhibition Design department, and the Art & Design Gallery.
 
 For this particular online exhibition, an entirely new exhibition template and design was created for SPARC Digital, the goal being to make this exhibition feel special because it had been intended to be something of a large-scale, physically-mounted exhibition (and was also originally conceived to commemorate the 75th anniversary of FIT). The design used a great deal of animation, utilizing javascript not previously used in Library digital initiatives, as well as augmented reality (see the FITting Room below), panel discussions and podcasts. It was truly a multimedia experience.
 
@@ -52,7 +52,7 @@ Background: FIT holds numerous lectures, events and exhibitions that have been r
 
 ![Captioning interface]({{ '/assets/images/captions1.png' | relative_url }})
 
-> As stipulated in SUNY-wide and federal guidelines, all videos posted online by academic institutions must be properly captioned for accessibility purposes. During the beginning stages of the remote work period due the pandemic, a project was conceived for library employees that normally worked in public-facing roles to work on captioning videos.
+Background: As stipulated in SUNY-wide and federal guidelines, all videos posted online by academic institutions must be properly captioned for accessibility purposes. During the beginning stages of the remote work period due the pandemic, a project was conceived for library employees that normally worked in public-facing roles to work on captioning videos.
 
 - Created workflows, standards, and documentation
 - Trained team of 12 on captioning workflow
@@ -64,7 +64,7 @@ Background: FIT holds numerous lectures, events and exhibitions that have been r
 
 > The FITting Room is an augmented reality (AR) experience that allows users to 'try on' rare and unique materials from the FIT Library’s Special Collections and College Archives (SPARC). Built using the ZapWorks Studio platform, this AR experience brings historic source material to life. Users can try on accessories—hats, scarves, earrings—featured in original fashion sketches by legendary artists.
 
-Background: This project was first conceived after learning about AR and the [ZapWorks Studio platform](https://zap.works/studio/) from the FIT Faculty Research Space. Working with Reference Librarian, Professor Miyo Sandlin, the project lead, we planned an AR poster campaign throughout the College. The idea was to print high-resolution posters of fashion sketches with QR codes that would trigger an AR experience allowing users to try on an article of clothing from the sketch. This would typically be a hat because the Zappar platform used face tracking technology, so it needed to be an article of clothing that could be 'attached' on the head or neck, as opposed to something like gloves (because the technology doesn't recognize hands). Creating the AR experience required carefully cropping the sketches using Photoshop, which were then locked into the Zappar experience. As we began building a collection of sketches/experiences and planned our marketing and rollout of the project, it would need to be re-envisioned due to FIT's migration to a remote-learning environment.
+Background: This project was first conceived after learning about AR and the [ZapWorks Studio platform](https://zap.works/studio/) from the [FIT Faculty Research Space](https://www.fitnyc.edu/frs/). Working with Reference Librarian, Professor Miyo Sandlin, the project lead, we planned an AR poster campaign throughout the College. The idea was to print high-resolution posters of fashion sketches with QR codes that would trigger an AR experience allowing users to try on an article of clothing from the sketch. This would typically be a hat because the Zappar platform used face tracking technology, so it needed to be an article of clothing that could be 'attached' on the head or neck, as opposed to something like gloves (because the technology doesn't recognize hands). Creating the AR experience required carefully cropping the sketches using Photoshop, which were then locked into the Zappar experience. As we began building a collection of sketches/experiences and planned our marketing and rollout of the project, it would need to be re-envisioned due to FIT's migration to a remote-learning environment.
 
 AR is typically associated with mobile phones. The user typically scans a QR code with the camera on their phone and the experience is triggered. However, a few weeks into the remote-work environment we realized how important webcams had suddenly become, and realized that our AR experience didn't necessarily need to be limited to mobile phones. We reconceived the project as a website where users could visit and trigger the AR experience directly from their desktop or laptop computer (and the phone would still work too). A website was quickly spun up using [Github Pages](https://pages.github.com/) and lauched in April 2020.
 
@@ -77,6 +77,14 @@ AR is typically associated with mobile phones. The user typically scans a QR cod
 **\*In development**
 
 ![Digital Repository Architecture Flowchart]({{ '/assets/images/archivematica.png' | relative_url }})
+
+Background: Upon receiving a full-time appointment, one of my primary goals was to rebuild the Library's digital infrastructure on firmer standing. Digital assets are currently being managed across a series of disconnected systems with very few mechanisms to ensure long-term preservation. The goal then was to build a system where all digital assets could be centrally managed, responsibly secured and preserved, and distributed to endusers without sacrificing any of the functionality currently employed. This 'FIT Digital Repository' (name pending) will be built using [Archivematica](https://www.archivematica.org/en/) to process assets for long-term preservation in a cloud-based storage environment and [Omeka-S](https://omeka.org/s/) to manage and distribute them.
+
+- Installed Archivematica and Omeka-S instances on FIT servers
+- Successfully completed pilot project using [Amazon S3](https://aws.amazon.com/s3/) cloud storage and [Cantaloupe](https://cantaloupe-project.github.io/) image server for processing large, high-resolution images
+- Wrote Archivematica automation [script](https://github.com/fitnycdigitalinitiatives/automation-tools/blob/master/dips/omeka_upload.py) for deposit of access copies and metadata into Omeka-S application
+- Contributed [code](https://github.com/artefactual/archivematica-storage-service/pull/515) to official Archivematica repository for Storage Service version 0.16
+- Developed Omeka-S [module](https://github.com/fitnycdigitalinitiatives/FITModule) for integrating Omeka-S with Archivematica and cloud-based storage infrastructure
 
 ## Archaic Bannerstone Project [bannerstone.fitnyc.edu](https://bannerstone.fitnyc.edu/)
 
@@ -94,27 +102,64 @@ Background: The Archaic Bannerstone Project is the brainchild of Professor [Anna
 
 [![Anniversary Timeline Homepage]({{ '/assets/images/anniversaryTimeline.png' | relative_url }})](https://timeline.fitnyc.edu/)
 
-## Exhibitions Timeline
+Background: There were several ideas for projects being developed to commemorate the 75th anniversary of FIT—this timeline ultimately being a combination of several projects and a collaboration between the Library and Communications and External Relations (CER). The branding work for the 75th was [developed](https://news.fitnyc.edu/2020/02/03/75th_logo_design/) by faculty and students from Advertising and Digital Design, which the design of this website drew heavily on. Images were sourced from the College Archives.
+
+- Developed custom Wordpress theme
+- Site implemented parallax and smooth scrolling
+- [Presented](https://docs.google.com/presentation/d/1_Il4EmPet1AKJHL6_5FTIDTIVfWZn44hmfG-lVz_jgc/edit?usp=sharing) on this project/collaboration and Exhibitions Timeline (see below) at FIT Academic Open Mic, March 9, 2020
+
+## Exhibitions Timeline [exhibitions.fitnyc.edu/exhibitions-timeline](https://exhibitions.fitnyc.edu/exhibitions-timeline/)
 **\*Pending launch**
 
-![Exhibitions Timeline]({{ '/assets/images/exhibitionsTimeline.png' | relative_url }})
+[![Exhibitions Timeline]({{ '/assets/images/exhibitionsTimeline.png' | relative_url }})](https://exhibitions.fitnyc.edu/exhibitions-timeline/)
+
+Background: Simultaneous to the 75th anniversary of the College was the 50th anniversary of the [Museum at FIT](http://www.fitnyc.edu/museum/exhibitions/exhibitionism.php). Very much designed as complement to the 75th anniversary site—this flows horizontally whereas the 75th flows vertically—this site is also intended not just to commemorate the 50th anniversary but also to serve as an ongoing catalog of every exhibition the Museum has mounted. A collaboration with the Museum's digital media team.
+
+- Developed custom Wordpress theme
+- Site implements [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/) customized to work with timeline range slider
+- Built generic, open-source [Timeline](https://github.com/fitnycdigitalinitiatives/timeline) template using [Jekyll](https://jekyllrb.com/) and [MiniComp](https://minicomp.github.io/wiki/)
 
 ## FIT Authors [authors.fitnyc.edu](https://authors.fitnyc.edu/)
 
 [![FIT Authors Homepage]({{ '/assets/images/fitAuthors.png' | relative_url }})](https://authors.fitnyc.edu/)
 
+> "FIT Authors is an initiative of the FIT Library to showcase the scholarship and creativity of the FIT community, as well as to promote our collections. Each semester, the Library collects submissions from authors within the FIT community (faculty, staff, and alumni) to create informative profiles. The Library features these authors and their works in a rotating display, and hosts an FIT Authors event several times a semester. On this site, you can find profiles of FIT authors, a showcasing of associated events, as well as a listing of all recently published books by FIT authors."
+
+Background: The FIT Authors program was originally created by the FIT Senate Library Committee, but was later handed off to the Library where the website was developed, along additional programing details. The website includes author profiles, a listing of events and published works, and an online questionnaire for potential new authors.
+
+- Developed website using [Jekyll](https://jekyllrb.com/) and [MiniComp](https://minicomp.github.io/wiki/)
+- First digital initiative to be hosted using [Github Pages](https://pages.github.com/)
+- Assisted in the transferring of the FIT Authors program from direction under the Faculty Senate Library Committee to the Library directly; developed forms and procedures for maintaining the program
+- Site statistics: 1,366 unique users with 5,497 total pageviews
+
 ## Teaching Business and Labor History to Art and Design Students [businesshistory.fitnyc.edu](https://businesshistory.fitnyc.edu/)
 
 [![Teaching Business and Labor History to Art and Design Students Homepage]({{ '/assets/images/businessLabor.png' | relative_url }})](https://businesshistory.fitnyc.edu/)
 
-## OneSearch New Books Slider [onesearch.fitnyc.edu](https://onesearch.fitnyc.edu/discovery/search?vid=01SUNY_FIT:01SUNY_FIT)
+> "*Teaching Business and Labor History to Art and Design Students* [is] an NEH-funded project to create curriculum for art and design students in order to educate them on the history of working as an artist or designer. On this site, you can find information on the development of this project, as well as a collection of resources, curricular materials and academic studies developed for this project."
+
+Background: This is the project site for NEH-funded project that involves seminars, symposiums, and the development of curriculum. It is led by Professor Kyunghee Pyun (History of Art) and Professor Daniel Levinson-Wilk (American History).
+
+- Joined project as web designer, interfacing with FIT IT and CER to setup site on WP Engine
+- Developed custom Wordpress theme
+
+## OneSearch New Books Carousel [onesearch.fitnyc.edu](https://onesearch.fitnyc.edu/discovery/search?vid=01SUNY_FIT:01SUNY_FIT)
 
 [![OneSearch Homepage]({{ '/assets/images/newBooks.png' | relative_url }})](https://onesearch.fitnyc.edu/discovery/search?vid=01SUNY_FIT:01SUNY_FIT)
 
-## The Ruth Finley Collection <br/> Digitizing 70 Years of the Fashion Calendar
-**\*In development**
+Background: In 2019, as part of a SUNY-wide effort, the Library migrated to a new catalog, *OneSearch*, built on the Alma/Primo library service platform. This new platform gave the Library the ability greater flexibility to customize the catalog homepage. Using a combination of free tools, the new books carousels shows users the latest books added to our collections and is updated automatically on a weekly basis.
 
-![Fashion Calendar Map Visualization]({{ '/assets/images/fashionCalendar.png' | relative_url }})
+- Developed [process](https://github.com/fitnycdigitalinitiatives/onesearch-newbooks) using Alma analytics, Alma API, Python script, Google Books API (for the covers), and Travis CI to automate process for adding new books to carousel
+
+## The Ruth Finley Collection <br/> Digitizing 70 Years of the Fashion Calendar
+**\*Currently in application for CLIR grant**
+
+[![Fashion Calendar Map Visualization]({{ '/assets/images/fashionCalendar.png' | relative_url }})](https://fashion-calendar.github.io/map/)
+
+Background: This project, led by Prof. Natalie Nudell of the Art History Dept., focuses on Ruth Finley's *Fashion Calendar*, a weekly publication listing important fashion events. With the entire 70-year run of this publication held in the Library's Special Collections and College Archives, the primary goal of this project is to digitize each issue and make it available online. In addition, because the *Fashion Calendar* is so rich with data (including names, addresses, dates associated with each event), the project seeks to apply various digital humanities tools—mapping visualizations, text analysis, etc.—to create added value for researchers.
+
+- Drafted CLIR Grant application sections, Technical Plan and Digital Preservation/Discoverability Plan
+- 
 
 ## FIT Institutional Repository
 **\*In development**
