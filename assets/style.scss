@@ -1,0 +1,125 @@
+---
+---
+
+// start content
+@import url("https://use.typekit.net/yhv5gix.css");
+
+@media (prefers-reduced-motion: no-preference) {
+  :root {
+    scroll-behavior: initial;
+  }
+}
+body {
+  font-family: "halyard-text", sans-serif;
+  font-weight: 300;
+  padding-top: 56px; //displace height of fixed navbar
+  position: relative;
+}
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "halyard-display", sans-serif;
+  font-weight: bold;
+}
+b,
+strong {
+  font-weight: bold;
+}
+
+#landing h1 {
+  font-size: 1.5rem;
+}
+#landing h2 {
+  font-size: 1.25rem;
+}
+@media (min-width: 576px) {
+  #landing {
+    min-height: calc(100vh - 56px);
+  }
+}
+@media (min-width: 768px) {
+  #landing h1 {
+    font-size: 1.75rem;
+  }
+  #landing h2 {
+    font-size: 1.5rem;
+  }
+  #launch.btn {
+    position: absolute;
+    bottom: -1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 50%;
+    padding: 0.5rem;
+    height: 4rem;
+    width: 4rem;
+    z-index: 1000;
+  }
+}
+@media (min-width: 992px) {
+  #landing h1 {
+    font-size: 2.25rem;
+  }
+  #landing h2 {
+    font-size: 2rem;
+  }
+}
+@media (min-width: 1200px) {
+  #landing h1 {
+    font-size: 2.75rem;
+  }
+  #landing h2 {
+    font-size: 2.5rem;
+  }
+}
+@media (min-width: 1400px) {
+  #landing h1 {
+    font-size: 3.5rem;
+  }
+  #landing h2 {
+    font-size: 3rem;
+  }
+}
+section h1 {
+  padding-top: 2rem;
+}
+section h2 {
+  padding-top: 1rem;
+}
+section h3 {
+  padding-top: 0.5rem;
+}
+section h2 a,
+section h3 a {
+  display: table;
+  font-size: 0.875em;
+  font-weight: 300;
+  color: #6c757d;
+  text-decoration: none;
+}
+section h2 a:focus,
+section h2 a:hover,
+section h3 a:focus,
+section h3 a:hover {
+  color: #565e64;
+}
+section img {
+  width: 100%;
+  margin: 1rem 0;
+  border: 1px solid #dee2e6;
+}
+blockquote {
+  font-size: 1.25rem;
+}
+footer #fit-logo {
+  height: 25px;
+}

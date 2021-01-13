@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+  <!-- styles -->
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}" />
+
+  <title>{{ site.title }}</title>
+</head>
+
+<body data-bs-spy="scroll" data-bs-target="#navbar" data-bs-offset="57" id="top">
+  <header>
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-white shadow-sm" id="navbar">
+      <div class="container-fluid">
+        <a class="navbar-brand scroll-link" href="#top">
+          <img src="{{ '/assets/images/button.png' | relative_url }}" height="30" class="d-inline-block align-top" alt="">
+          T&P Portfolio
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+            {% assign sections = site.sections | sort: "order" %}
+            {% for section in sections %}
+            <li class="nav-item">
+              <a class="nav-link scroll-link" href="#{{ section.title | downcase | replace: ' ', '-' }}">{{ section.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <main>
+    <div class="container-fluid mb-2 mb-md-4 position-relative">
+      <div class="row align-items-sm-center justify-content-sm-center py-4 py-md-5 border-bottom" id="landing">
+        <div class="col col-md-5 col-xl-4 col-xxl-3 mb-2 mb-md-0">
+          <img src="{{ '/assets/images/portrait.jpg' | relative_url }}" alt="Portrait of Joseph Anderson" class="img-fluid border border-light">
+        </div>
+        <div class="col-sm-auto">
+          <h1>
+            Tenure & Promotion Portfolio
+          </h1>
+          <h2>
+            Joseph Anderson
+            <br>
+            <span class="small text-muted">
+              Assistant Professor
+              <br>
+              Digital Initiatives Librarian
+              <br>
+              Gladys Marcus Library
+            </span>
+          </h2>
+        </div>
+      </div>
+      <a href="#introduction" class="btn btn-light d-none d-md-flex align-items-center justify-content-center scroll-link" id="launch" role="button" aria-label="Go to Introduction">
+        <i aria-hidden="" class="fas fa-angle-down fa-lg" title="Introduction"></i>
+      </a>
+    </div>
+
+    <div class="container">
+      <div class="row justify-content-sm-center">
+        <div class="col-md-10 col-lg-8 col-xl-7">
+          {{ content }}
+        </div>
+      </div>
+
+    </div>
+  </main>
+  <footer class="mt-5 py-5 bg-light border-top">
+    <div class="container text-center">
+      <div class="row justify-content-center">
+        <div class="col-md-10 col-lg-8 col-xl-5">
+          <a href="https://www.fitnyc.edu">
+            <img class="mb-3" src="{{ '/assets/images/wordmark-black-1-line.png' | relative_url }}" alt="FIT SUNY Logo" id="fit-logo">
+          </a>
+          <p class="text-start">This online portfolio was compiled as part of my application for Tenure to the T&P Committee at FIT in 2021. If you have any questions or have any trouble accessing any of the resources linked to on this page, please
+            do not hesitate to contact me.</p>
+          <address class="text-start">
+            Joseph Anderson<br>
+            Assistant Professor|Digital Initiatives Librarian<br>
+            Gladys Marcus Library | Goodman Resource Center <br>
+            Fashion Institute of Technology<br>
+            Seventh Avenue at 27th Street, Room E619<br>
+            New York, New York 10001<br>
+            <a href="mailto:joseph_anderson@fitnyc.edu">joseph_anderson@fitnyc.edu</a>
+          </address>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <!-- Bootstrap Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/1ddf8635da.js" crossorigin="anonymous"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      //Scroll animation and offset
+      $('a.scroll-link').click(function(event) {
+        event.preventDefault();
+        var $anchor = $(this);
+        $('html, body').animate({
+          scrollTop: ($($anchor.attr('href')).offset().top - 56)
+        });
+        if ($('.navbar-collapse').hasClass("show")) {
+          $('.navbar-toggler').click();
+        }
+      });
+      //Open links in new tab
+      $('a').not('a.scroll-link').attr('target', '_blank');
+    });
+  </script>
+</body>
+
+</html>
