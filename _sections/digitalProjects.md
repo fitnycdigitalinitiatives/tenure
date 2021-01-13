@@ -84,7 +84,11 @@ AR is typically associated with mobile phones. The user typically scans a QR cod
 
 > "The Archaic Bannerstone Project is a resource for the study of the aesthetically complex, anomalous ancient Native American lithics known as bannerstones."
 
-Background: The Archaic Bannerstone Project is the brainchild of Professor [Anna Blume](http://www.fitnyc.edu/art-history/faculty/anna-blume.php) of the History of Art Dept., focusing on her archaeological research into bannerstones. Developed using a combination of the Omeka platform and Github Pages, this site offers users the ability view images of bannerstones at high resolution and multiple angles, and includes detailed metadata. The site also includes digital essay by Prof. Blume, "Recommendation for the Photographing of Bannerstones," developed specifically for the site. 
+Background: The Archaic Bannerstone Project is the brainchild of Professor [Anna Blume](http://www.fitnyc.edu/art-history/faculty/anna-blume.php) of the History of Art Dept., focusing on her archaeological research into bannerstones. Developed using a combination of the Omeka platform and Github Pages, this site offers users the ability view images of bannerstones at high resolution and multiple angles, and includes detailed metadata. The site also includes digital essay by Prof. Blume, "Recommendation for the Photographing of Bannerstones," developed specifically for the site, as well as other papers on bannerstones by members of the archaeological community.
+
+- After launching the site in November 2018, an additional 32 bannerstones from the National Museum of Natural History, Smithsonian Institution have been added to the collection, as well as several essays
+- Featured on [FIT Newsroom](https://news.fitnyc.edu/2019/01/28/bannerstone/)
+- Site statistics: 3,399 unique users with 18,330 total pageviews
 
 ## FIT 75th Anniversary Timeline [timeline.fitnyc.edu](https://timeline.fitnyc.edu/)
 
@@ -94,6 +98,10 @@ Background: The Archaic Bannerstone Project is the brainchild of Professor [Anna
 **\*Pending launch**
 
 ![Exhibitions Timeline]({{ '/assets/images/exhibitionsTimeline.png' | relative_url }})
+
+## FIT Authors [authors.fitnyc.edu](https://authors.fitnyc.edu/)
+
+[![FIT Authors Homepage]({{ '/assets/images/fitAuthors.png' | relative_url }})](https://authors.fitnyc.edu/)
 
 ## Teaching Business and Labor History to Art and Design Students [businesshistory.fitnyc.edu](https://businesshistory.fitnyc.edu/)
 
