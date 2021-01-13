@@ -84,7 +84,7 @@ AR is typically associated with mobile phones. The user typically scans a QR cod
 
 > "The Archaic Bannerstone Project is a resource for the study of the aesthetically complex, anomalous ancient Native American lithics known as bannerstones."
 
-Background: The Archaic Bannerstone Project is the brainchild of Professor Anna Blume of the History of Art Dept., focusing on her archaeological research into bannerstones. Developed using a combination of the Omeka platform and Github Pages, this site offers users the ability view images of bannerstones at high resolution and multiple angles, and includes detailed metadata. The site also includes digital essay by Prof. Blume, "Recommendation for the Photographing of Bannerstones," developed specifically for the site. 
+Background: The Archaic Bannerstone Project is the brainchild of Professor [Anna Blume](http://www.fitnyc.edu/art-history/faculty/anna-blume.php) of the History of Art Dept., focusing on her archaeological research into bannerstones. Developed using a combination of the Omeka platform and Github Pages, this site offers users the ability view images of bannerstones at high resolution and multiple angles, and includes detailed metadata. The site also includes digital essay by Prof. Blume, "Recommendation for the Photographing of Bannerstones," developed specifically for the site. 
 
 ## FIT 75th Anniversary Timeline [timeline.fitnyc.edu](https://timeline.fitnyc.edu/)
 
