@@ -5,12 +5,52 @@ order: 3
 
 # Service to the College
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa eget egestas purus viverra accumsan. Elementum curabitur vitae nunc sed velit dignissim sodales. A iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Magna eget est lorem ipsum dolor. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in. Netus et malesuada fames ac turpis egestas. Nisi est sit amet facilisis magna etiam tempor orci eu. Sed felis eget velit aliquet sagittis. Nulla facilisi etiam dignissim diam. Felis bibendum ut tristique et egestas quis ipsum. Aenean pharetra magna ac placerat vestibulum lectus mauris ultrices. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus. Morbi tristique senectus et netus et malesuada. Adipiscing elit duis tristique sollicitudin nibh.
+> As a faculty member, I am an active member of my department, Acquisitions and Metadata Services (AMS), as well as an active participant in various committees, working groups, and teams across the Library and College. In this capacity, I have worked with colleagues in various departments across FIT (including the many interdisciplinary projects listed above), and have contributed my expertise to areas outside of my primary role as Digital Initiatives Librarian.
 
-Sit amet porttitor eget dolor. Imperdiet massa tincidunt nunc pulvinar sapien et. In dictum non consectetur a erat. Pretium lectus quam id leo in vitae. Semper viverra nam libero justo laoreet. Mattis nunc sed blandit libero volutpat sed cras ornare arcu. Et tortor at risus viverra adipiscing at in tellus. At imperdiet dui accumsan sit amet nulla. Sed faucibus turpis in eu mi bibendum. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. Fermentum dui faucibus in ornare quam. Leo integer malesuada nunc vel risus.
+## Library-Wide Service
 
-Ultrices in iaculis nunc sed augue. Tempor nec feugiat nisl pretium fusce id velit ut. Quis commodo odio aenean sed adipiscing diam donec adipiscing. Condimentum mattis pellentesque id nibh tortor id. Est ullamcorper eget nulla facilisi etiam dignissim diam quis. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat. Pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus nisl. Nam at lectus urna duis convallis. Cursus turpis massa tincidunt dui ut ornare lectus sit. Ipsum nunc aliquet bibendum enim facilisis gravida. Diam sit amet nisl suscipit adipiscing. Aliquam sem et tortor consequat id porta nibh venenatis cras. Sit amet porttitor eget dolor morbi. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Nunc scelerisque viverra mauris in aliquam. Laoreet suspendisse interdum consectetur libero id faucibus nisl. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl.
+- Digital Initiatives Working Group (Chairperson)
+  - Leads biannual meetings to coordinate digital initiatives across the various departments of the library
+  - Created Digital Initiatives [webpage](http://www.fitnyc.edu/library/digital/index.php) on Library website
+- LibGuides Team
+  - Developed Python script to update all LibGuide catalog links following migration from Aleph to Alma
+- FITDIL Team
+  - Works as part of team to manage [digital repository](https://fitdil.fitnyc.edu/) of nearly 140,000 images of student and faculty work, exhibitions, and instructional resources
+- MakerMinds Team
+  - Plan workshops and events focusing on innovative technology for students
+- Web 2021 Team
+- Digital Objects Team
+- Reference and Instructional Services (RIS)
+  - Works weekly reference desk and "Ask the Library" shifts
+- Library Search Committees
+  - Continuations Librarian, Fall 2019
+- Library Liaison
+  - Center for Continuing and Professional Studies
+  - Computer Animation
+  - Science & Math
+- Library Presentations
+  - Library Walk & Talk: Max Meyer and A. Beller & Co. Digital Exhibition, co-presented with Karen Trivette, 1/5/2021
+  - Library Walk & Talk: FIT Digital Assets, co-presented with Hiroko Suda and Samantha Levin, 8/5/2020
+- Library Workshops
+  - "[Open Source Opportunities with Github](https://docs.google.com/presentation/d/1mHVgFqYkOKr8gVeZIfG0r5UlqhbnPeMW0D50UdYANxw/edit?usp=sharing)," co-presented with Carli Spina, September 20, 2019, MakerMinds, Gladys Marcus Library.
+  - "AR for Anybody," co-presented with Prof. Helen Lane, September, 28, 2018, MakerMinds, Gladys Marcus Library.
 
-Integer malesuada nunc vel risus commodo viverra. Est ullamcorper eget nulla facilisi etiam. Sollicitudin tempor id eu nisl nunc mi. Velit sed ullamcorper morbi tincidunt ornare massa. Mattis pellentesque id nibh tortor id aliquet lectus proin nibh. Et netus et malesuada fames ac turpis. Consequat id porta nibh venenatis cras sed felis. Porta lorem mollis aliquam ut porttitor leo a. Feugiat in fermentum posuere urna nec tincidunt praesent semper. Ultrices mi tempus imperdiet nulla malesuada pellentesque. Volutpat consequat mauris nunc congue nisi. Eu sem integer vitae justo eget magna fermentum.
+## College-Wide Service
 
-Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Purus gravida quis blandit turpis cursus in hac habitasse platea. Sed libero enim sed faucibus turpis in eu mi bibendum. Eget nunc lobortis mattis aliquam. Morbi enim nunc faucibus a pellentesque sit. Nisl pretium fusce id velit ut tortor pretium viverra suspendisse. Quis lectus nulla at volutpat diam ut. Lorem donec massa sapien faucibus et molestie ac. Lectus nulla at volutpat diam ut venenatis tellus in. Malesuada nunc vel risus commodo viverra maecenas accumsan. Rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. At risus viverra adipiscing at. Volutpat commodo sed egestas egestas fringilla. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus est. Tellus mauris a diam maecenas sed enim ut sem viverra. Urna condimentum mattis pellentesque id nibh.
+- Electronic Information Technology Accessibility Compliance Committee
+  - Library and Web Accessibility Subcommittees
+  - Closed-Captioning Vendor RFP
+  - Drafted final report with subcommittee on Instructional Technology
+  - Wrote Python script using YouTube API to get statistics on count of all FIT YouTube videos across various channels and their status in regards to captioning
+- FIT Event Videos Working Group (formerly Video Task Force)
+  - Worked with members of Compliance and Media to establish workflows, policies and procedures for managing videos of events at FIT
+  - Developed e-sign process for participant release forms for videos of FIT events, using Adobe Sign
+  - Created 'Video at FIT' [webpage](http://www.fitnyc.edu/library/digital/video.php), outlining video recording process at FIT as established in group
+- Faculty Senate Committee on Sabbaticals and Release Time for Research, 2019-2020
+- FIT Grant Projects
+  - *Shop Girls to Show Girls: Teaching Resources on New York’s Working Class for Community College Students*, led by Prof. Kyunghee Pyun of the History of Art dept., Rebecca Bauman of the Modern Languages and Cultures dept., and Vinnie Quan of the Fashion Business Management dept.
+  - *Teaching Business and Labor History to Art and Design Students*, led by Prof. Kyunghee Pyun of the History of Art dept. and Prof. Daniel Levinson-Wilk of the Social Sciences dept.
+  - *The Ruth Finley Collection: Digitizing 70 Years of the Fashion Calendar* led by Prof. Natalie Nudell of the History of Art Dept.
+- College Presentations
+  - “[Withstanding the Test of Time(line): Digital Humanities Collaborations from the FIT Library]((https://docs.google.com/presentation/d/1_Il4EmPet1AKJHL6_5FTIDTIVfWZn44hmfG-lVz_jgc/edit?usp=sharing)),” March 9, 2020, FIT Academic Open Mic
+  - Presentation with Prof. Anna Blume on the Archaic Bannerstone Project to the Liberal Arts Dept.

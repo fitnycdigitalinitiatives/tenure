@@ -46,6 +46,7 @@ Background: FIT holds numerous lectures, events and exhibitions that have been r
 
 - Since launching in 2017, the Archive on Demand collection has more than tripled in size, now totaling 686 videos
 - Developed project to digitize video from the [*Faces and Places in Fashion*](https://archiveondemand.fitnyc.edu/items/browse?search=&advanced%5B0%5D%5Belement_id%5D=70&advanced%5B0%5D%5Bterms%5D=Faces+and+Places+in+Fashion&advanced%5B0%5D%5Btype%5D=is+exactly) series by ‘ripping’ DVD copy and making available online through Archive on Demand
+- Developed e-sign process for participant release forms for videos of FIT events, using Adobe Sign
 - Site statistics: 16,106 unique visitors with 42,910 total pageviews (2.12 pages/sessions)
 
 ### Archive on Demand Video Captioning Project
@@ -159,7 +160,13 @@ Background: In 2019, as part of a SUNY-wide effort, the Library migrated to a ne
 Background: This project, led by Prof. Natalie Nudell of the Art History Dept., focuses on Ruth Finley's *Fashion Calendar*, a weekly publication listing important fashion events. With the entire 70-year run of this publication held in the Library's Special Collections and College Archives, the primary goal of this project is to digitize each issue and make it available online. In addition, because the *Fashion Calendar* is so rich with data (including names, addresses, dates associated with each event), the project seeks to apply various digital humanities tools—mapping visualizations, text analysis, etc.—to create added value for researchers.
 
 - Drafted CLIR Grant application sections, Technical Plan and Digital Preservation/Discoverability Plan
-- 
+- CLIR Grant application advanced to final round
+- Created project demo, including mapping visualization, using [Leaflet.js](https://leafletjs.com/) and [Mapbox](https://www.mapbox.com/)
 
 ## FIT Institutional Repository
 **\*In development**
+
+Background: Students in the School of Graduate Studies create wide variety of qualifying papers or projects as a condition of being granted a degree. The more conventional of these, theses, are processed, collected and managed as part of the ProQuest Electronic Thesis and Dissertation Administrator (ETD), and then published in a ProQuest database. This database, however, is only accessible to users whose institutions subscribe to it. On top of that, many of the qualifying projects—capstone projects, runway shows, etc.—are not able to be captured through the ProQuest ETD. This has created the need for the Library to create and institutional repository, which would collect all qualifying papers/projects by graduate students and make them available open access. As this project develops, it is planned to additionally include any academic output from the FIT community (e.g. faculty research, other student work). Note: this project works in tandem with the above-mentioned *Digital* Repository, but is separate.
+
+- Developed Institutional Repository demo for meeting with Graduate Studies faculty
+- Drafted [University Agreement](https://docs.google.com/document/d/1McTxbHgyTuGtiKDd9xMmokxDP56z_YCk76IOdtxJV_E/edit?usp=sharing), a release form for students to deposit their works open access in the repository.

@@ -5,12 +5,30 @@ order: 4
 
 # Professional Development
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa eget egestas purus viverra accumsan. Elementum curabitur vitae nunc sed velit dignissim sodales. A iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Magna eget est lorem ipsum dolor. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in. Netus et malesuada fames ac turpis egestas. Nisi est sit amet facilisis magna etiam tempor orci eu. Sed felis eget velit aliquet sagittis. Nulla facilisi etiam dignissim diam. Felis bibendum ut tristique et egestas quis ipsum. Aenean pharetra magna ac placerat vestibulum lectus mauris ultrices. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus. Morbi tristique senectus et netus et malesuada. Adipiscing elit duis tristique sollicitudin nibh.
+> As a library professional, I take advantage of many of the conferences and workshops offered in New York City, as well as many held virtually. Much of this activity has directly influenced my work at FIT. As my body of work continues to develop, I am actively pursuing opportunities for publication and presentations at conferences. In addition, as a member of the online community, I have contributed to my field through code repositories and listservs.
 
-Sit amet porttitor eget dolor. Imperdiet massa tincidunt nunc pulvinar sapien et. In dictum non consectetur a erat. Pretium lectus quam id leo in vitae. Semper viverra nam libero justo laoreet. Mattis nunc sed blandit libero volutpat sed cras ornare arcu. Et tortor at risus viverra adipiscing at in tellus. At imperdiet dui accumsan sit amet nulla. Sed faucibus turpis in eu mi bibendum. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. Fermentum dui faucibus in ornare quam. Leo integer malesuada nunc vel risus.
+## Publications
 
-Ultrices in iaculis nunc sed augue. Tempor nec feugiat nisl pretium fusce id velit ut. Quis commodo odio aenean sed adipiscing diam donec adipiscing. Condimentum mattis pellentesque id nibh tortor id. Est ullamcorper eget nulla facilisi etiam dignissim diam quis. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat. Pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus nisl. Nam at lectus urna duis convallis. Cursus turpis massa tincidunt dui ut ornare lectus sit. Ipsum nunc aliquet bibendum enim facilisis gravida. Diam sit amet nisl suscipit adipiscing. Aliquam sem et tortor consequat id porta nibh venenatis cras. Sit amet porttitor eget dolor morbi. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Nunc scelerisque viverra mauris in aliquam. Laoreet suspendisse interdum consectetur libero id faucibus nisl. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl.
+- "Fashion for All," co-authored with Miyo Sandlin, [Online Searcher](https://www.infotoday.com/onlinesearcher/), v.45, no. 1 (Jan./Feb. 2021)
 
-Integer malesuada nunc vel risus commodo viverra. Est ullamcorper eget nulla facilisi etiam. Sollicitudin tempor id eu nisl nunc mi. Velit sed ullamcorper morbi tincidunt ornare massa. Mattis pellentesque id nibh tortor id aliquet lectus proin nibh. Et netus et malesuada fames ac turpis. Consequat id porta nibh venenatis cras sed felis. Porta lorem mollis aliquam ut porttitor leo a. Feugiat in fermentum posuere urna nec tincidunt praesent semper. Ultrices mi tempus imperdiet nulla malesuada pellentesque. Volutpat consequat mauris nunc congue nisi. Eu sem integer vitae justo eget magna fermentum.
+## Presentations
 
-Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Purus gravida quis blandit turpis cursus in hac habitasse platea. Sed libero enim sed faucibus turpis in eu mi bibendum. Eget nunc lobortis mattis aliquam. Morbi enim nunc faucibus a pellentesque sit. Nisl pretium fusce id velit ut tortor pretium viverra suspendisse. Quis lectus nulla at volutpat diam ut. Lorem donec massa sapien faucibus et molestie ac. Lectus nulla at volutpat diam ut venenatis tellus in. Malesuada nunc vel risus commodo viverra maecenas accumsan. Rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. At risus viverra adipiscing at. Volutpat commodo sed egestas egestas fringilla. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus est. Tellus mauris a diam maecenas sed enim ut sem viverra. Urna condimentum mattis pellentesque id nibh.
+- ~~"[MDID Updates and Reports from the Field](https://vra2020.sched.com/event/Vihe/mdid-updates-and-reports-from-the-field)," March 26, 2020, Visual Resources Association Conference 2020, Baltimore, Md~~ (Cancelled due to Covid-19)
+
+## Attended
+
+- "[Game Design Faculty Workshop](https://www.fitnyc.edu/frs/)," 11/24/2020, FIT Faculty Research Space
+- "[The Getty Vocabulary Program's OpenRefine Reconciliation Service: From Users to Contributors](https://www.asist.org/meetings-events/webinars/the-getty-vocabulary-programs-openrefine-reconciliation-service-from-users-to-contributors-dcmi/)," 8/20/2020, ASIST Webinars
+- "[Responding to Current Events with Digital Collections Strategy](https://iiif.io/event/2020/iiifweek/#iiif-week-opening-panel-responding-to-current-events-with-digital-collections-strategy)," 6/1/2020, IIIF Week Webinar
+- "[Library Accessibility Standards](https://www.youtube.com/watch?v=A64L60jAYaM&feature=youtu.be)," 2/14/2020, SUNY Webinar
+- "[Web Accessibility Standards](https://www.youtube.com/watch?v=4t3Xi7iElJ4&feature=youtu.be)," 2/13/2020, SUNY Webinar
+- "[The Accessible Classroom Redefined](https://wiki.albany.edu/display/public/askit/2019-12-02+%7C+The+Accessible+Classroom+Redefined)," 12/9/2019, SUNY Webinar
+- "[Investigating & Archiving the Scholarly Git Experience](https://investigating-archiving-git.gitlab.io/)", Digital Preservation Interest Group, 11/19/2020, METRO NYC
+- "[Debates in the Digital Humanities 2019](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/English/Events/Open-to-the-Public/Fall-2019/Debates-in-the-Digital-Humanities-2019)", 9/20/2019, CUNY Graduate Center
+
+## Open Source Contributions
+
+> In the spirit Open Source and Open Access, I publish all the code for the digital projects I have contributed to (including this portfolio) on [GitHub](https://github.com/fitnycdigitalinitiatives). GitHub is a platform that hosts code repositories for millions of users, and facilitates sharing, collaboration, and reuse of Open Source projects. As I have used the code of other developers to bring projects to fruition, so others can do the same with my contributions.
+
+ - Contributed [code](https://github.com/artefactual/archivematica-storage-service/pull/515) to official Archivematica repository for Storage Service version 0.16
+ - Active participant in [Archivematica](https://groups.google.com/g/archivematica) and [Omeka](https://forum.omeka.org/c/omeka-s) user forums
