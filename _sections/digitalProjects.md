@@ -74,7 +74,7 @@ AR is typically associated with mobile phones. The user typically scans a QR cod
 
 - Designed the FITting Room platform/website
 - Featured in Zappar blog, "[Month in AR - August 2020](https://www.zappar.com/blog/month-ar-august-2020/)," and on FIT Newsroom, "[Five Amazing Things in FIT’s Library—Available Everywhere](https://news.fitnyc.edu/2020/05/07/five-amazing-things-in-fits-library-available-everywhere/)"
-- Article co-authored with Prof. Miyo Sandlin, “Fashion for All,” accepted for publication in Jan./Feb. 2021 issue of [*Online Searcher*](https://www.infotoday.com/OnlineSearcher/Articles/Features/Fashion-for-All-Using-Augmented-Reality-to-Explore-Digital-Archives-144992.shtml)
+- Article co-authored with Prof. Miyo Sandlin, “Fashion for All,” published in Jan./Feb. 2021 issue of [*Online Searcher*](https://www.infotoday.com/OnlineSearcher/Articles/Features/Fashion-for-All-Using-Augmented-Reality-to-Explore-Digital-Archives-144992.shtml)
 - Site statistics: 764 unique visitors with 1,613 total pageviews
 
 ## FIT Digital Repository / Archivematica
@@ -133,7 +133,7 @@ Background: The FIT Authors program was originally created by the Faculty Senate
 
 - Developed website using [Jekyll](https://jekyllrb.com/) and [MiniComp](https://minicomp.github.io/wiki/)
 - First Library digital initiative to be hosted using [Github Pages](https://pages.github.com/)
-- Assisted in the transferring of the FIT Authors program from direction under the Faculty Senate Library Committee to the Library directly; developed forms and procedures for maintaining the program
+- Assisted in the transfer of the FIT Authors program from direction under the Faculty Senate Library Committee to the Library directly; developed forms and procedures for maintaining the program
 - Site statistics: 1,366 unique users with 5,497 total pageviews
 
 ## Teaching Business and Labor History to Art and Design Students [businesshistory.fitnyc.edu](https://businesshistory.fitnyc.edu/)
