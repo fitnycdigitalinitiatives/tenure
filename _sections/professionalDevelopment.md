@@ -9,7 +9,7 @@ order: 4
 
 ## Publications
 
-- "Fashion for All," co-authored with Miyo Sandlin, [Online Searcher](https://www.infotoday.com/onlinesearcher/), v.45, no. 1 (Jan./Feb. 2021)
+- "Fashion for All," co-authored with Miyo Sandlin, [Online Searcher](https://www.infotoday.com/OnlineSearcher/Articles/Features/Fashion-for-All-Using-Augmented-Reality-to-Explore-Digital-Archives-144992.shtml), v.45, no. 1 (Jan./Feb. 2021)
 
 ## Presentations
 
